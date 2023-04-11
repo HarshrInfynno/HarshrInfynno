@@ -4,6 +4,7 @@
 - 🔭 I’m currently working at **Infynno Solutions in Ahmedabad**
 - 🌱 I’m currently learning **Advance React & Microservices**
 - ⚡ Fun fact: Big Fan of Photography & videography
+- 📫 How to reach me: [harshrdalasaniya.infynno@gmail.com](mailto:harshrdalasaniya.infynno@gmail.com) via email
 
 ---
 
@@ -43,34 +44,10 @@
       </a>
       <br>MySql
     </td>
-    <td align="center" width="96">
-      <a href="#HarshrInfynno-tech">
-        <img src="./images/postgresql.png" width="48" height="48" alt="Postgresql" />
-      </a>
-      <br>Postgresql
-    </td>
-    <td align="center" width="96">
-      <a href="#HarshrInfynno-tech">
-        <img src="./images/mongodb.png" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="#HarshrInfynno-tech">
-        <img src="./images/aws.png" width="48" height="48" alt="AWS" />
-      </a>
-      <br>AWS
-    </td>
-   
+
   </tr>
   <tr>
-   <td align="center" width="96">
-      <a href="#HarshrInfynno-tech">
-        <img src="./images/docker.png" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
+      <td align="center" width="96">
       <a href="#HarshrInfynno-tech">
         <img src="./images/github.png" width="48" height="48" alt="GitHub" />
       </a>
