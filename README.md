@@ -44,9 +44,6 @@
       </a>
       <br>MySql
     </td>
-
-  </tr>
-  <tr>
       <td align="center" width="96">
       <a href="#HarshrInfynno-tech">
         <img src="./images/github.png" width="48" height="48" alt="GitHub" />
