@@ -4,7 +4,7 @@
 
 \- Fun fact: Big Fan of Photography & videography
 
-- 🌍  I’m currently working at **Infynno Solutions in Ahmedabad** based in Ahemdabad,India
+- 🌍  I’m currently working at **Infynno Solutions LLP** based in Ahemdabad,India
 - ✉️  You can contact me at [harshrdalasaniya.infynno@gmail.com](mailto:harshrdalasaniya.infynno@gmail.com)
 - 🧠  I'm learning Advance React & Microservices
 
